@@ -1,4 +1,4 @@
-<!-- Authorized by Frank -->
+<!-- Created by Frank -->
 - [00](#00)
     - [Data Mining の技術 (00b, P26)](#data-mining-の技術-00b-p26)
 - [01 - 02 Hyper Text \& Web](#01---02-hyper-text--web)
